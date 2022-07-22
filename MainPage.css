@@ -1,0 +1,75 @@
+.bk{
+    background-image: url('http://chitrahandicraft.com/wp-content/uploads/2019/02/login-page-background-images-hd-10.jpg');
+  }
+
+.pstyle
+{
+    color: white;
+    font-size:28px;
+}
+
+.ls-text{
+font-size:20px;
+text-align:"justify" 
+}
+.d-text{
+font-family:Lobster;
+font-size:20px;
+text-align:justify;
+}
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: rgb(27, 24, 24);
+    color: white;
+}
+
+.topnav .icon {
+    display: none;
+}
+
+.topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+}
+
+.target{
+    font-family: Cinzel;
+    font-size:14px;
+    color: white;
+    text-align:justify;
+}
+.target >div{
+display:none;
+}
+.target >div:target{
+display:block;  
+}
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:25vw;
+    top:0;
+    height:50%;
+    width:50%;
+    position:absolute;
+}
